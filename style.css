@@ -52,3 +52,38 @@ background-image: url(images/dream-bg.png);
 background-repeat: no-repeat;
 background-position: right;
 }
+.title-h{
+    font-size: 25px;
+    color: blue;
+}
+.e2{
+    color: whitesmoke;
+    background-color: orangered;
+    width: 15%;
+}
+.single-experience{
+box-shadow: 10px 10px 40px lightpink;
+border-radius: 10px;
+height: 60%;
+background-color: wheat;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, Lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#full-sta{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
