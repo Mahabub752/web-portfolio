@@ -6,6 +6,16 @@ h1{
     font-size: 50px;
     color: midnightblue;
 }
+h2{
+    font-size: 40px;
+}
+h4{
+    font-size: 25px;
+    color: lightseagreen;
+}
+p{
+    color: dimgrey;
+}
 .name-highlight {
     color: red;
 }
@@ -18,7 +28,7 @@ h1{
 .half-w img{
     width: 100%;
 }
-h3{
+.point-1{
     font-size: 200%;
     color: seagreen;
 }
@@ -28,6 +38,7 @@ h3{
 }
 section{
     height: 600px;
+    padding-bottom: 150px;
 }
 .link-button{
     background-image: linear-gradient(50deg, Lightsalmon, tomato);
@@ -35,4 +46,9 @@ section{
     padding: 10px 20px;
     border-radius: 5px;
     color: black;  
+}
+.twitter-area{
+background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
 }
